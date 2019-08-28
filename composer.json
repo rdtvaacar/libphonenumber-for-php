@@ -1,5 +1,5 @@
 {
-  "name": "giggsey/libphonenumber-for-php",
+  "name": "rdtvaacar/libphonenumber-for-php",
   "type": "library",
   "description": "PHP Port of Google's libphonenumber",
   "keywords": [
@@ -60,7 +60,7 @@
   "require": {
     "php": ">=5.3.2",
     "ext-mbstring": "*",
-    "giggsey/locale": "^1.7"
+    "rdtvaacar/locale": "^1.7"
   },
   "require-dev": {
     "phing/phing": "^2.7",
